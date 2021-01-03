@@ -7,4 +7,4 @@ Then, you should be able to open it.
 Make sure you unzip the file (rename the extension to .zip and then decompress), and delete the original spreadsheet. The unzipped files should NOT be inside a specific folder - everything should be inside the root.
 
 # Credits
-Thanks to @TheRuntingMuumuu for making this! :D
+Thanks to @TheRuntingMuumuu for helping me make this! :D
