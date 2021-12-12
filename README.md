@@ -1,4 +1,8 @@
 # Opening
+
+# TODO
+Please remind me in the Issues section to update tghis
+
 Zip up everything except this README.md file (NOT with gzip, it has to be standard), and rename it to `something.xlsx`.
 
 Then, you should be able to open it.
